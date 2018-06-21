@@ -1,0 +1,13 @@
+What is SQl?
+What is Relational database?
+What is Query?
+What is Database?
+Data Types
+    *Integer
+    *Decimal
+    *Serial(it like integer but ıt automatically increases the new value)
+    *Varchar()
+    *Tımestamp
+    *Boolean
+    *Enum
+    *....

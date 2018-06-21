@@ -1,0 +1,63 @@
+Version Control
+	Git
+		High level overview
+		*Deploy your code to the cloud 
+		*Keep track of changes to code
+		*Synchronizes code betweeen different people(merge, branch)
+		*Test changes to code without losing the original 
+		*Revert back to old version of code
+	
+	GitHub
+		*Git Website/NewREpository/Create REpository
+			Command line İnterface
+			* Git clone <url> / make a copy of repository on your local computer
+			* Git add <file.name>
+			* Git commit -m "message" take a snapshot of your repo
+
+				* Git status /(show whats currently going on with you 
+repository
+			* Git push (push changes to the remote server)
+			* Git pull (pull the changes that happened on remote server)
+					-There is two ways of making changes .
+					Either someone who work on your project and makes some changes 
+					Or you just make some changes from your account using edit section
+					
+		Merge Conflicts
+		 Lets say you make some changes on your local computer and commit it .
+		 At the same time someone else made some changes in remote server . 
+		 When both of you commit the changes at the same time git is going to get confused.
+		 
+		 when you try to pull on git ,you will get merge conflict.You need to fix the conflict 
+		 and commit the result.
+		 	* Git log shows you summary of changes history (by commit(id) , author,data)
+		 	* Git Reset
+		 		-git reset --hard<commit(id)> (you can go back (reset ) to the any previous
+		 								 commit that has been made before by commit id)
+		 		-git reset --hard origin/master (it goes way back to the first version of my
+		 								repo of remote server)
+		
+
+		Branching 
+		Head refers to which branch you are 
+		*Git branch /shows all your branches
+		*Git branch <branch name > /creates new branch
+		*Git checkout <branch name we want to go > / change the branch 
+
+Shortcuts= git commit -am “message”/ add and commit all of the files in one line
+
+		*git merge <branch name > / after branching you can merge(on local) files like that
+		*git put —set-upstream origin <branch name > / push the branch to the repo
+		
+		Remotes
+
+		*Git fetch/ go to the repository and download the all of latest commit
+		*Git merge origin/master
+
+Shorcuts: for fetch and merge origin /master=git pull
+
+		Forks
+		
+		
+		*Pull requests
+		
+				

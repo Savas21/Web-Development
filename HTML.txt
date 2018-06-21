@@ -1,0 +1,9 @@
+					HTML(HYPER TEXT MARKUP LANGUAGE)
+		One helpful way of think about designing html websites is thinking about them like
+a structure .ıf you re un familiar with tree structure effectively think of them as a com-
+bination of nodes where nodes are just points within this tree that are connected to other
+nodes. 
+		So in this case , if look at a simple website like the HELLO WORLD page that we 
+created before if wanted to represent this as a tree in HTML .We typically call that tree
+the document object mode(DOM). .
+	

@@ -1,0 +1,9 @@
+	How to Deploy Html File On Gİthub?
+	1.Name your file as index.html
+	2.Go to github repository where your file is 
+	3.On right headside click settings -scroll down to github pages-
+	4.From source section deploy it form none to master branch and save it 
+	
+	if you go to the webpage and copy the link and paste it in your browser you can reach
+	website
+	

@@ -1,0 +1,12 @@
+DOM(DOCUMENT OBJECT MODEL )
+
+
+Documents have a logical structure which is very much like a tree.
+This tree contains the nodes (Which are optional - But must in DOM. Which means even if you dont write head tag DOM will add it)
+Nodes are nothing but elements in our HTML markup.
+The tree is so arranged that we can easily traverse any node in it
+The traversing and the manipulation part is done using DOM API's.
+
+example link = https://www.quora.com/What-is-meant-by-DOM-in-simple-words
+
+In the most simplest words -
