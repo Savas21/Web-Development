@@ -1,0 +1,21 @@
+What's ORM(Object relational mapping)?
+What's Flask-SQLALchemy ?
+
+    In python we have this powerful language feature in Python .This objet-oriented programming syntax
+that lets us create classes like Flight class.Define properties on those clases like the destination and 
+duratin ; lets us define methods on those clases that let us add behavior or functionality to those classes -
+the ability to add a passenger or the ability to delay a flight .
+
+ And We also have in sort of a seperate world .. Our world of Sql databases or database of tables,
+each one of which has some number of rows to which we can insert , or update ,or select, or delete from them .
+
+        And What object relational mapping is going to allow us to do is tie those two worlds together. ıt's going to 
+allow us to use Python clases and methods and objects to interact with a SQl database.
+
+    In order to do that tie it with web applications written in Flask. We're foint to use a package called Flask "SQLALchemy" , which 
+is a way of tying SQLALchemy, which we were using last time in order to write Python code that 
+allowed us to execute database statements. And ıt's gonna make it easier to tie that in with a 
+Flask application. So it's such that when users are using our Flask application, they can take advantage of more database features.
+
+ The end goal here is to be able to use Python code and clases and object-oriented-programming
+to be able to interact with our databases.
